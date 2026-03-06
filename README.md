@@ -43,8 +43,6 @@
 
 [![Email](https://img.shields.io/badge/EMAIL:-cvicentecrespos@gmail.com-37474F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvicentecrespos@gmail.com)
 
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Carmen_Vicente-D2B48C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
 
 <br>
