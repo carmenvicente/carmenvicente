@@ -7,7 +7,7 @@
 # Hi! I'm Carmen Vicente 👋
 
 <p align="center">
-  <img src="img/perfil.png" alt="Carmen Vicente" width="600">
+  <img src="[img/perfil.png](https://github.com/carmenvicente/carmenvicente/blob/main/perfil.png?raw=true)" alt="Carmen Vicente" width="600">
   <br>
   <i>"Turning coffee into code and problems into digital solutions."</i>
 </p>
