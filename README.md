@@ -69,8 +69,8 @@
             </a>
           </p>
           <p align="center">
-            Web application developed for **Carnicerías Vicente Valencia**. Optimizing digital presence through a **modern frontend** and a scalable architecture. 
-            This project was part of my Bachelor's Thesis (TFG) for the degree in **Telecommunications Technologies Engineering**.
+            Web application developed for <strong>Carnicerías Vicente Valencia</strong>. Optimizing digital presence through a modern frontend and a scalable architecture. 
+            This project was part of my Bachelor's Thesis (TFG) for the degree in <strong>Telecommunications Technologies Engineering</strong>.
           </p>
         </div>
       </td>
