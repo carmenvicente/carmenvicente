@@ -50,13 +50,6 @@
 
 ## 📂 FEATURED PROYECTS
 
-¡Ya veo lo que pasa! En la imagen que me has pasado, parece que el código se ha quedado "fuera" de la tabla o el diseño se ha roto porque falta abrir la estructura correctamente.
-
-Para que se vea exactamente como la segunda imagen que me mostraste (la del chico de los cursos de Android), con dos columnas perfectas, el código tiene que ser este. Cópialo todo de golpe, reemplazando lo que tienes ahora:
-
-Markdown
-## 📂 Proyectos Destacados
-
 <div align="center">
   <table>
     <tr>
