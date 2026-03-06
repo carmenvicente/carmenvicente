@@ -54,15 +54,15 @@
       <td>
         <h3 align="center">Nombre de tu Gran Proyecto</h3>
         <div align="center">
-          <a href="URL_DE_TU_REPOSITORIO" target="_blank">
+          <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
             <img src="https://via.placeholder.com/800x400.png?text=Preview+de+tu+Proyecto" width="600" alt="Preview del proyecto">
           </a>
           <br><br>
           <p align="center">
-            <a href="URL_DE_TU_REPOSITORIO" target="_blank">
+            <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
             </a>
-            <a href="URL_DE_TU_DEMO" target="_blank">
+            <a href="https://carniceriasvicentevalencia.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
             </a>
           </p>
