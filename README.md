@@ -54,7 +54,7 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">Carnicerías Vicente</h3>
+        <h3 align="center">La Carniceria Vicente Valencia</h3>
         <div align="center">
           <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
             <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
@@ -69,7 +69,8 @@
             </a>
           </p>
           <p align="center">
-            Plataforma web para <strong>Carnicerías Vicente</strong>. Optimizando la presencia digital mediante un <strong>frontend moderno</strong> y una arquitectura escalable.
+            Aplicación web para <strong>Carnicerías Vicente Valencia</strong>. Optimizando la presencia digital mediante un <strong>frontend moderno</strong> y una arquitectura escalable.
+            Realizado para el TFG de mi grado en Ingeniería de Tecnologías de Telecomunicación. 
           </p>
         </div>
       </td>
