@@ -48,50 +48,49 @@
 
 ## 📂 Featured Projects
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Carnicerías Vicente</h3>
-        <div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Carnicerías Vicente</h3>
+      <div align="center">
+        <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
+          <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
+        </a>
+        <p align="center">
+          <br>
           <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
-            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
+            <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
           </a>
-          <br><br>
-          <p align="center">
-            <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
-              <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-            <a href="https://carniceriasvicentevalencia.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
-            </a>
-          </p>
-          <p align="justify">
-            <font size="2">
-              Desarrollo de una plataforma web moderna para la gestión y visualización de productos cárnicos. Enfocado en la <strong>experiencia de usuario</strong> y una arquitectura <strong>Frontend sólida</strong>.
-            </font>
-          </p>
-        </div>
-      </td>
+          <a href="https://carniceriasvicentevalencia.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
+          </a>
+        </p>
+        <p align="center">
+          Desarrollo de una plataforma web moderna para la gestión de productos. Enfocado en la <strong>experiencia de usuario</strong> y arquitectura <strong>Frontend</strong>.
+        </p>
+      </div>
+    </td>
 
-      <td width="50%" valign="top">
-        <h3 align="center">Próximamente</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/600x340.png?text=Building+New+Ideas..." width="100%" style="opacity: 0.6;">
-          <br><br>
-          <p align="center">
-            <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
-          </p>
-          <p align="justify">
-            <font size="2">
-              Actualmente desarrollando nuevos proyectos aplicados a la <strong>Ingeniería de Telecomunicaciones</strong>. Explorando la integración de datos y sistemas eficientes.
-            </font>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+    <td width="50%" valign="top">
+      <h3 align="center">Próximamente</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/600x340.png?text=Building+New+Ideas..." width="100%" style="opacity: 0.6;">
+        <p align="center">
+          <br>
+          <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
+        </p>
+        <p align="center">
+          Actualmente desarrollando nuevos proyectos aplicados a la <strong>Ingeniería de Telecomunicaciones</strong>.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+
 
 <a name="es-version"></a>
 # Hola! Soy Carmen Vicente 
