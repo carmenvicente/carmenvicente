@@ -75,7 +75,7 @@
         </div>
       </td>
       <td width="50%" valign="bottom">
-        <h3 align="center">Próximamente...</h3>
+        <h3 align="center">Coming soon...</h3>
         <div align="center">
           <img width="100%" style="opacity: 0.6;">
           <br><br>
@@ -83,7 +83,7 @@
              <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
           </p>
           <p align="center">
-            Actualmente trabajando en proyectos innovadores de <strong>Ingeniería de Telecomunicaciones</strong>.
+            Currently working on innovative projects.
           </p>
         </div>
       </td>
