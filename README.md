@@ -82,7 +82,9 @@
           <p align="center">
              <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
           </p>
-          
+          <p align="center">
+            Actualmente trabajando en proyectos innovadores de <strong>Ingeniería de Telecomunicaciones</strong>.
+          </p>
         </div>
       </td>
     </tr>
