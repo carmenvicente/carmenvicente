@@ -57,7 +57,7 @@
         <h3 align="center">La Carniceria Vicente Valencia</h3>
         <div align="center">
           <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
-            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carni.png?raw=true" width="100%" alt="Preview Carnicería">
+            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
           </a>
           <br><br>
           <p align="center">
