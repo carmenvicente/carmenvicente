@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/carmenvicente/carmenvicente/blob/main/perfil.png?raw=true" alt="Carmen Vicente" width="850">
   <br>
-  <i>"Turning coffee into code and problems into digital solutions."</i>
+  <i>"Simplicity is the ultimate sophistication."</i>
 </p>
 
 ---
@@ -36,10 +36,12 @@
 <br>
 
 <a name="es-version"></a>
-# ¡Hola! Soy Carmen Vicente 👋 (ES)
+# Hola! Soy Carmen Vicente 
 
 <p align="center">
-  <i>"Convirtiendo café en código y problemas en soluciones digitales."</i>
+  <img src="https://github.com/carmenvicente/carmenvicente/blob/main/perfil.png?raw=true" alt="Carmen Vicente" width="850">
+  <br>
+  <i>"La simplicidad es la máxima sofisticación."</i>
 </p>
 
 ---
