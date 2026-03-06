@@ -12,16 +12,49 @@
   <i>"Simplicity is the ultimate sophistication."</i>
 </p>
 
----
 
-### 📋 About Me (EN)
 
-| Feature | Details |
-| :--- | :--- |
-| 🎓 **Education** | Engineering Student / Final Year Project (Senior Thesis) |
-| 📍 **Location** | Cuenca, Spain |
-| 🚀 **Interests** | Web Development, Data Analysis and Automation |
-| 💡 **Philosophy** | Continuous learning, one commit at a time |
+<h2 align="left">Sobre mí / About Me</h2>
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    ✨ <b>Simplicity is the ultimate sophistication</b> | En busca de la elegancia en cada línea de código.
+  </li>
+  <br>
+  <li>
+    🏛️ <b>Engineering Student</b> | Finalizando mi Grado en Ingeniería.
+  </li>
+  <br>
+  <li>
+    🖋️ <b>Junior Developer</b> | Apasionada por Python y el desarrollo Web minimalista.
+  </li>
+  <br>
+  <li>
+    📜 <b>Senior Thesis (TFG)</b> | Aplicando ingeniería a soluciones reales y elegantes.
+  </li>
+  <br>
+  <li>
+    🕊️ <b>Based in Cuenca, Spain</b> | Creando tecnología con una visión atemporal.
+  </li>
+  <br>
+  <li>
+    🕯️ <b>Continuous Learning</b> | Especializándome en SQL y entornos de datos.
+  </li>
+</ul>
+
+<hr>
+
+<h2 align="left">Tech Stack & Tools</h2>
+
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>
+    💻 <b>Languages</b> | <kbd>Python</kbd> <kbd>SQL</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd>
+  </li>
+  <br>
+  <li>
+    ⚙️ <b>Workflow</b> | Git, VS Code, Linux (Zsh)
+  </li>
+</ul>
 
 ---
 
