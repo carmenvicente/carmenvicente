@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="#es-version"><b>ES</b> 🇪🇸</a> | 
-  <a href="#en-version"><b>EN</b> 🇬🇧</a>
+  <a href="#es-version"><b>ESPAÑOL</b></a> | 
+  <a href="#en-version"><b>ENGLISH</b></a>
 </p>
 
 <a name="es-version"></a>
