@@ -39,7 +39,7 @@
 # Hola! Soy Carmen Vicente 
 
 <p align="center">
-  <img src="https://github.com/carmenvicente/carmenvicente/blob/main/perfil.png?raw=true" alt="Carmen Vicente" width="850">
+  <img src="https://github.com/carmenvicente/carmenvicente/blob/main/perfil(1).png?raw=true" alt="Carmen Vicente" width="850">
   <br>
   <i>"La simplicidad es la máxima sofisticación."</i>
 </p>
