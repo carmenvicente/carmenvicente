@@ -62,7 +62,7 @@
           <br><br>
           <p align="center">
             <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
-              <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
+              <img src="https://img.shields.io/badge/CODE-D2B48C?style=for-the-badge&logo=github&logoColor=white">
             </a>
             <a href="https://carniceriasvicentevalencia.vercel.app/" target="_blank">
               <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
