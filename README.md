@@ -13,14 +13,14 @@
 </p>
 
 ---
-### 📋 About Me
+### ABOUT ME
 
-* ✨ **Simplicity is the ultimate sophistication** | Seeking elegance in every line of code.
-* 🏛️ **Engineering Student** | Senior Year at University.
-* 🖋️ **Junior Developer** | Passionate about Python and minimalist web design.
-* 📜 **Senior Thesis (TFG)** | Applying engineering to real-world, refined solutions.
-* 🕊️ **Based in Cuenca, Spain** | Building technology with a timeless vision.
-* 🕯️ **Continuous Learning** | Currently focused on SQL and data environments.
+*  **Ingeniera en Tecnologías de Telecomunicación** 
+*  **Full-Stack Developer** 
+*  **AI Developer** 
+*  **Conquer Blocks Master Student** 
+*  **Based in Cuenca, Spain** 
+*  **Continuous Learning**
 
 ---
 
