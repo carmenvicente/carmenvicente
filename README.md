@@ -46,7 +46,48 @@
 <br>
 
 
+## 📂 Proyectos Destacados
 
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Nombre de tu Proyecto</h3>
+      <div align="center">
+        <a href="URL_DE_TU_REPOSITORIO" target="_blank">
+          <img src="https://via.placeholder.com/400x225.png?text=Preview+Proyecto+1" width="100%" alt="Preview proyecto">
+        </a>
+        <p align="center">
+          <br>
+          <a href="URL_DE_TU_REPOSITORIO" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="URL_DE_TU_DEMO" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
+          </a>
+        </p>
+        <p>
+          Descripción de tu primer gran proyecto. Aquí puedes explicar cómo aplicaste <strong>Python</strong> o <strong>React</strong> para resolver un problema técnico como futura ingeniera.
+        </p>
+      </div>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">Próximamente...</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/400x225.png?text=Coming+Soon" width="100%" style="opacity: 0.5;">
+        <p align="center">
+          <br>
+          <img src="https://img.shields.io/badge/STATUS-Building-lightgrey?style=for-the-badge">
+        </p>
+        <p>
+          Actualmente trabajando en nuevos desarrollos y explorando tecnologías de <strong>Telecomunicaciones</strong> y <strong>Backend</strong>.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 
 
