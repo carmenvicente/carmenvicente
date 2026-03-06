@@ -37,7 +37,7 @@
 
 ## CONTACT
 If you have questions, suggestions, or just want to chat about web development don't hesitate to get in touch with me through:
-[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:cvicentecrespos@gmail.com)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=cvicentecrespos%40gmail.com&labelColor=black&color=%23EA4335)](mailto:cvicentecrespos@gmail.com)
 </br>
 [![LinkedIn](www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
 
