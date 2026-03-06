@@ -39,12 +39,10 @@
 
 *If you have questions, suggestions, or just want to chat about engineering and development, I'd love to hear from you:*
 
-<br>
 
-[![Email](https://img.shields.io/badge/EMAIL:-cvicentecrespos@gmail.com-37474F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvicentecrespos@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL:-cvicentecrespos@gmail.com-E5989B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvicentecrespos@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Carmen_Vicente-D2B48C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Carmen_Vicente-B4C5E4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
 <br>
 
 
