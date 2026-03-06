@@ -46,16 +46,16 @@
 <br>
 
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
-        <h3 align="center">Nombre de tu Gran Proyecto</h3>
+      <td width="50%" valign="top">
+        <h3 align="center">Carnicerías Vicente</h3>
         <div align="center">
           <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
-            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="600" alt="Preview del proyecto">
+            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
           </a>
           <br><br>
           <p align="center">
@@ -66,21 +66,32 @@
               <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
             </a>
           </p>
+          <p align="justify">
+            <font size="2">
+              Desarrollo de una plataforma web moderna para la gestión y visualización de productos cárnicos. Enfocado en la <strong>experiencia de usuario</strong> y una arquitectura <strong>Frontend sólida</strong>.
+            </font>
+          </p>
+        </div>
+      </td>
+
+      <td width="50%" valign="top">
+        <h3 align="center">Próximamente</h3>
+        <div align="center">
+          <img src="https://via.placeholder.com/600x340.png?text=Building+New+Ideas..." width="100%" style="opacity: 0.6;">
+          <br><br>
           <p align="center">
-            Escribe aquí una breve descripción de lo que hace tu proyecto. Como <strong>Ingeniera de Telecomunicaciones</strong>, puedes destacar el uso de <strong>Python</strong>, la eficiencia del algoritmo o la arquitectura <strong>Frontend</strong> que utilizaste.
+            <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
+          </p>
+          <p align="justify">
+            <font size="2">
+              Actualmente desarrollando nuevos proyectos aplicados a la <strong>Ingeniería de Telecomunicaciones</strong>. Explorando la integración de datos y sistemas eficientes.
+            </font>
           </p>
         </div>
       </td>
     </tr>
   </table>
 </div>
-
-<br>
-
-
-
-
-<br>
 
 <a name="es-version"></a>
 # Hola! Soy Carmen Vicente 
