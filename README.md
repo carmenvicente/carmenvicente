@@ -77,10 +77,10 @@
       <td width="50%" valign="bottom">
         <h3 align="center">Próximamente...</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/600x340.png?text=Building+In+Progress..." width="100%" style="opacity: 0.6;">
+          <img src="" width="100%" style="opacity: 0.6;">
           <br><br>
           <p align="center">
-             <img src="">
+             <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
           </p>
           <p align="center">
             Actualmente trabajando en proyectos innovadores de <strong>Ingeniería de Telecomunicaciones</strong>. Próximamente más detalles.
