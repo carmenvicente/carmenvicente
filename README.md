@@ -12,7 +12,7 @@
   <i>"Simplicity is the ultimate sophistication."</i>
 </p>
 
-
+---
 ### 📋 About Me
 
 * ✨ **Simplicity is the ultimate sophistication** | Seeking elegance in every line of code.
