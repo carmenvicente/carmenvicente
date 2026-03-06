@@ -69,8 +69,8 @@
             </a>
           </p>
           <p align="center">
-            Aplicación web para <strong>Carnicerías Vicente Valencia</strong>. Optimizando la presencia digital mediante un <strong>frontend moderno</strong> y una arquitectura escalable.
-            Realizado para el TFG de mi grado en Ingeniería de Tecnologías de Telecomunicación. 
+            Web application developed for **Carnicerías Vicente Valencia**. Optimizing digital presence through a **modern frontend** and a scalable architecture. 
+            This project was part of my Bachelor's Thesis (TFG) for the degree in **Telecommunications Technologies Engineering**.
           </p>
         </div>
       </td>
