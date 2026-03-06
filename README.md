@@ -55,7 +55,7 @@
         <h3 align="center">Nombre de tu Gran Proyecto</h3>
         <div align="center">
           <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
-            <img src="https://via.placeholder.com/800x400.png?text=Preview+de+tu+Proyecto" width="600" alt="Preview del proyecto">
+            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="600" alt="Preview del proyecto">
           </a>
           <br><br>
           <p align="center">
