@@ -12,7 +12,6 @@
   <i>"Simplicity is the ultimate sophistication."</i>
 </p>
 
----
 ## ABOUT ME
 
 * 🏛️ **Telecommunications Technologies Engineer** 
