@@ -4,7 +4,7 @@
 </p>
 
 <a name="en-version"></a>
-# Hi! I'm Carmen Vicente 👋
+# Hi! I'm Carmen Vicente :)
 
 <p align="center">
   <img src="https://github.com/carmenvicente/carmenvicente/blob/main/perfil.png?raw=true" alt="Carmen Vicente" width="850">
