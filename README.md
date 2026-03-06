@@ -12,7 +12,7 @@
   <i>"Simplicity is the ultimate sophistication."</i>
 </p>
 
---
+<hr style="height:1px; border:none; color:#e0e0e0; background-color:#e0e0e0; opacity: 0.3;">
 ### 📋 About Me
 
 * ✨ **Simplicity is the ultimate sophistication** | Seeking elegance in every line of code.
