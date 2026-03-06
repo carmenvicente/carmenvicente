@@ -18,7 +18,7 @@
 *  **Ingeniera en Tecnologías de Telecomunicación** 
 *  **Full-Stack Developer** 
 *  **AI Developer** 
-*  **[Conquer Blocks] (https://www.conquerblocks.com/master-desarrollo-web-full-stack?utm_source=GoogleAds&utm_medium=Search&utm_campaign=CB_GoogleAds_All_Search&utm_content=Search3&utm_term=Marca&utm_idcampaign=23168336310&utm_adsetid=188272568638&utm_adid=780554350454&gad_source=1&gad_campaignid=23168336310&gbraid=0AAAAACtEWSgAJtMqXLVclncWkYLcd2JWy&gclid=Cj0KCQiAk6rNBhCxARIsAN5mQLu2VZA9V1CmwVxJW3EaiQ_DZeea5yJCjkcCECxysK3FdZ9HnNEB6bsaAvppEALw_wcB) Master Student** 
+*  **[Conquer Blocks](https://www.conquerblocks.com/master-desarrollo-web-full-stack?utm_source=GoogleAds&utm_medium=Search&utm_campaign=CB_GoogleAds_All_Search&utm_content=Search3&utm_term=Marca&utm_idcampaign=23168336310&utm_adsetid=188272568638&utm_adid=780554350454&gad_source=1&gad_campaignid=23168336310&gbraid=0AAAAACtEWSgAJtMqXLVclncWkYLcd2JWy&gclid=Cj0KCQiAk6rNBhCxARIsAN5mQLu2VZA9V1CmwVxJW3EaiQ_DZeea5yJCjkcCECxysK3FdZ9HnNEB6bsaAvppEALw_wcB) Master Student** 
 *  **Based in Cuenca, Spain** 
 *  **Continuous Learning**
 
