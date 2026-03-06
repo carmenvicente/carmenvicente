@@ -42,7 +42,18 @@ If you have questions, suggestions, or just want to chat about web development d
 [![LinkedIn](www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
 
 
+<br>
 
+<h2 align="left">📩 Let's Connect</h2>
+
+*If you have questions, suggestions, or just want to chat about engineering and development, I'd love to hear from you:*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
+[![Email](https://img.shields.io/badge/Email-37474F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvicentecrespos@gmail.com)
+
+<br>
 
 
 
