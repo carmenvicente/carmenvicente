@@ -46,33 +46,46 @@
 <br>
 
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">Nombre de tu Gran Proyecto</h3>
-        <div align="center">
-          <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
-            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="600" alt="Preview del proyecto">
-          </a>
-          <br><br>
-          <p align="center">
-            <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
-              <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-            <a href="https://carniceriasvicentevalencia.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
-            </a>
-          </p>
-          <p align="center">
-            Escribe aquí una breve descripción de lo que hace tu proyecto. Como <strong>Ingeniera de Telecomunicaciones</strong>, puedes destacar el uso de <strong>Python</strong>, la eficiencia del algoritmo o la arquitectura <strong>Frontend</strong> que utilizaste.
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Carnicerías Vicente</h3>
+        <div align="center">
+          <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
+            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
+          </a>
+          <br><br>
+          <p align="center">
+            <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            <a href="https://carniceriasvicentevalencia.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
+            </a>
+          </p>
+          <p align="center">
+            Plataforma web para <strong>Carnicerías Vicente</strong>. Optimizando la presencia digital mediante un <strong>frontend moderno</strong> y una arquitectura escalable.
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Próximamente...</h3>
+        <div align="center">
+          <img src="https://via.placeholder.com/600x340.png?text=Building+In+Progress..." width="100%" style="opacity: 0.6;">
+          <br><br>
+          <p align="center">
+            <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
+          </p>
+          <p align="center">
+            Actualmente trabajando en proyectos innovadores de <strong>Ingeniería de Telecomunicaciones</strong>. Próximamente más detalles.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
