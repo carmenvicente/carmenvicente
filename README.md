@@ -50,8 +50,15 @@
 
 ## 📂 FEATURED PROYECTS
 
+¡Ya veo lo que pasa! En la imagen que me has pasado, parece que el código se ha quedado "fuera" de la tabla o el diseño se ha roto porque falta abrir la estructura correctamente.
+
+Para que se vea exactamente como la segunda imagen que me mostraste (la del chico de los cursos de Android), con dos columnas perfectas, el código tiene que ser este. Cópialo todo de golpe, reemplazando lo que tienes ahora:
+
+Markdown
+## 📂 Proyectos Destacados
+
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">Carnicerías Vicente</h3>
@@ -59,7 +66,7 @@
           <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
             <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
           </a>
-          <br><br>
+          <br>
           <p align="center">
             <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
@@ -77,9 +84,8 @@
       <td width="50%" valign="top">
         <h3 align="center">Próximamente...</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/600x340/ffffff/ffffff?text=+" width="100%" alt="Spacing">
-          
-          <br><br>
+          <img src="https://via.placeholder.com/600x420/f9f9f9/cccccc?text=Building+In+Progress..." width="100%" alt="Spacing">
+          <br>
           <p align="center">
             <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
           </p>
