@@ -86,6 +86,12 @@
 
 <br>
 
-### 📧 Contact / Contacto
-* **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-perfil)
-* **Email:** [Tu Email]
+## CONTACT
+
+*Si tienes alguna pregunta, sugerencia o simplemente te apetece charlar sobre ingeniería y desarrollo, me encantaría escucharte:*
+
+
+[![Email](https://img.shields.io/badge/EMAIL:-cvicentecrespos@gmail.com-E5989B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvicentecrespos@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Carmen_Vicente-B4C5E4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
+<br>
