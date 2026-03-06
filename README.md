@@ -43,10 +43,12 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cvicentecrespos@gmail.com" target="_blank">![Email](https://img.shields.io/badge/EMAIL:-cvicentecrespos@gmail.com-E5989B?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Carmen_Vicente-B4C5E4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
+
+
 <br>
 
 
-## 📂 Featured Projects
+## 📂 FEATURED PROYECTS
 
 <div align="center">
   <table>
@@ -94,8 +96,8 @@
 
 
 <br>
-
-
+<br>
+<br>
 
 
 <a name="es-version"></a>
