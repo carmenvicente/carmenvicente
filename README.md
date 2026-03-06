@@ -54,7 +54,7 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">La Carniceria Vicente Valencia</h3>
+        <h3 align="center">Carniceria Vicente Valencia</h3>
         <div align="center">
           <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
             <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
@@ -133,7 +133,7 @@
 
 <br>
 
-## CONTACT
+## CONTACTO
 
 *Si tienes alguna pregunta, sugerencia o simplemente te apetece charlar sobre ingeniería y desarrollo, me encantaría escucharte:*
 
@@ -141,4 +141,49 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cvicentecrespos@gmail.com" target="_blank">![Email](https://img.shields.io/badge/EMAIL:-cvicentecrespos@gmail.com-E5989B?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Carmen_Vicente-B4C5E4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmen-vicente-crespo-22b60229a)
+<br>
+
+## 📂 PROYECTOS DESTACADOS
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Carniceria Vicente Valencia</h3>
+        <div align="center">
+          <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
+            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
+          </a>
+          <br><br>
+          <p align="center">
+            <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            <a href="https://carniceriasvicentevalencia.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
+            </a>
+          </p>
+          <p align="center">
+            Aplicación web desarrollada para <strong>Carnicerías Vicente Valencia</strong>. Optimizando la presencia digital mediante un frontend moderno y una arquitectura escalable. 
+            Este proyecto formó parte de mi Trabajo de Fin de Grado (TFG) para el grado en <strong>Ingeniería de Tecnologías de Telecomunicación</strong>.
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="bottom">
+        <h3 align="center">Proximamente...</h3>
+        <div align="center">
+          <img width="100%" style="opacity: 0.6;">
+          <br><br>
+          <p align="center">
+             <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
+          </p>
+          <p align="center">
+            Actualmente trabajando en proyectos innovadores.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
