@@ -58,7 +58,7 @@ Markdown
 ## 📂 Proyectos Destacados
 
 <div align="center">
-  <table width="100%">
+  <table>
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">Carnicerías Vicente</h3>
@@ -66,7 +66,7 @@ Markdown
           <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
             <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/carniceria.png?raw=true" width="100%" alt="Preview Carnicería">
           </a>
-          <br>
+          <br><br>
           <p align="center">
             <a href="https://github.com/carmenvicente/carniceriasvicentevalencia" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
@@ -76,16 +76,15 @@ Markdown
             </a>
           </p>
           <p align="center">
-            Plataforma web para <strong>Carnicerías Vicente</strong>. Optimizando la presencia digital mediante un <strong>frontend moderno</strong>.
+            Plataforma web para <strong>Carnicerías Vicente</strong>. Optimizando la presencia digital mediante un <strong>frontend moderno</strong> y una arquitectura escalable.
           </p>
         </div>
       </td>
-
       <td width="50%" valign="top">
         <h3 align="center">Próximamente...</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/600x420/f9f9f9/cccccc?text=Building+In+Progress..." width="100%" alt="Spacing">
-          <br>
+          <img src="https://via.placeholder.com/600x340.png?text=Building+In+Progress..." width="100%" style="opacity: 0.6;">
+          <br><br>
           <p align="center">
             <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
           </p>
