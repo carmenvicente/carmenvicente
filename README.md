@@ -74,19 +74,32 @@
           </p>
         </div>
       </td>
-      <td width="50%" valign="bottom">
-        <h3 align="center">Coming soon...</h3>
-        <div align="center">
-          <img width="100%" style="opacity: 0.6;">
-          <br><br>
-          <p align="center">
-             <img src="https://img.shields.io/badge/STATUS-Working%20on%20it-E5989B?style=for-the-badge">
-          </p>
-          <p align="center">
-            Currently working on innovative projects.
-          </p>
-        </div>
-      </td>
+     <td width="50%" valign="top">
+    <h3 align="center">ImaginAC</h3>
+    <div align="center">
+      <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
+        <img src="https://github.com/carmenvicente/carmenvicente/blob/main/asset
+  s/imaginac.png?raw=true" width="100%" alt="Preview ImaginAC">
+      </a>
+      <br><br>
+      <p align="center">
+        <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-D2B48C?style=for-the-badge
+  &logo=github&logoColor=white">
+        </a>
+        <a href="https://imaginac.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge
+  &logo=google-chrome&logoColor=white">
+        </a>
+      </p>
+      <p align="center">
+        Web platform that generates children's stories with <strong>AI</strong>
+  and automatically transcribes them into <strong>ARASAAC pictograms</strong>,
+  designed for Special Education teachers and students with cognitive
+  accessibility needs. Supports 9 languages.
+      </p>
+    </div>
+  </td>
     </tr>
   </table>
 </div>
