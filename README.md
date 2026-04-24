@@ -78,7 +78,7 @@
         <h3 align="center">ImaginAC</h3>
         <div align="center">
           <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
-            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/imaginac.png?raw=true" width="100%" alt="Preview ImaginAC">
+            <img src="https://raw.githubusercontent.com/carmenvicente/carmenvicente/main/assets/imaginac.png" width="100%" alt="Preview ImaginAC">
           </a>
           <br><br>
           <p align="center">
