@@ -181,19 +181,29 @@
           </p>
         </div>
       </td>
-      <td width="50%" valign="bottom">
-        <h3 align="center">Proximamente...</h3>
-        <div align="center">
-          <img width="100%" style="opacity: 0.6;">
-          <br><br>
-          <p align="center">
-             <img src="https://img.shields.io/badge/ESTADO-En%20proceso-E5989B?style=for-the-badge">
-          </p>
-          <p align="center">
-            Actualmente trabajando en proyectos innovadores.
-          </p>
-        </div>
-      </td>
+      <td width="50%" valign="top">
+  <h3 align="center">ImaginAC</h3>
+  <div align="center">
+    <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
+      <img src="https://raw.githubusercontent.com/carmenvicente/carmenvicente/main/assets/imaginac.png" width="100%" alt="Preview ImaginAC">
+    </a>
+    <br><br>
+    <p align="center">
+      <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-D2B48C?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+      <a href="https://imaginac.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
+      </a>
+    </p>
+    <p align="center">
+      Plataforma web que genera cuentos infantiles con <strong>IA</strong>
+      y los transcribe automáticamente en <strong>pictogramas ARASAAC</strong>,
+      diseñada para docentes de Educación Especial y alumnos con
+      necesidades de accesibilidad cognitiva. Disponible en 9 idiomas.
+    </p>
+  </div>
+</td>
     </tr>
   </table>
 </div>
