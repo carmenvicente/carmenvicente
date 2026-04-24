@@ -69,38 +69,34 @@
             </a>
           </p>
           <p align="center">
-            Web application developed for <strong>Carnicerías Vicente Valencia</strong>. Optimizing digital presence through a modern frontend and a scalable architecture. 
+            Web application developed for <strong>Carnicerías Vicente Valencia</strong>. Optimizing digital presence through a modern frontend and a scalable architecture.
             This project was part of my Bachelor's Thesis (TFG) for the degree in <strong>Telecommunications Technologies Engineering</strong>.
           </p>
         </div>
       </td>
-     <td width="50%" valign="top">
-    <h3 align="center">ImaginAC</h3>
-    <div align="center">
-      <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
-        <img src="https://github.com/carmenvicente/carmenvicente/blob/main/asset
-  s/Captura%20de%20pantalla%202026-04-23%20175231.png?raw=true" width="100%"
-  alt="Preview ImaginAC">
-      </a>
-      <br><br>
-      <p align="center">
-        <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-D2B48C?style=for-the-badge
-  &logo=github&logoColor=white">
-        </a>
-        <a href="https://imaginac.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge
-  &logo=google-chrome&logoColor=white">
-        </a>
-      </p>
-      <p align="center">
-        Web platform that generates children's stories with <strong>AI</strong>
-  and automatically transcribes them into <strong>ARASAAC pictograms</strong>,
-  designed for Special Education teachers and students with cognitive
-  accessibility needs. Supports 9 languages.
-      </p>
-    </div>
-  </td>
+      <td width="50%" valign="top">
+        <h3 align="center">ImaginAC</h3>
+        <div align="center">
+          <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
+            <img src="https://github.com/carmenvicente/carmenvicente/blob/main/assets/Captura%20de%20pantalla%202026-04-23%20175231.png?raw=true" width="100%" alt="Preview ImaginAC">
+          </a>
+          <br><br>
+          <p align="center">
+            <a href="https://github.com/carmenvicente/ImaginAC" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-D2B48C?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            <a href="https://imaginac.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-B4C5E4?style=for-the-badge&logo=google-chrome&logoColor=white">
+            </a>
+          </p>
+          <p align="center">
+            Web platform that generates children's stories with <strong>AI</strong>
+            and automatically transcribes them into <strong>ARASAAC pictograms</strong>,
+            designed for Special Education teachers and students with cognitive
+            accessibility needs. Supports 9 languages.
+          </p>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
